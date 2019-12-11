@@ -6,10 +6,13 @@
 
 body {
     background-color: #1a1a1a;
+    width: 50%;
+    margin: 0 25%;
 }
 main {
     background-color: #4b4b4b;
     display: flex;
+    
 }
 
 h1 {
@@ -30,8 +33,23 @@ aside {
 p {
     color: white;
     background-color: #1a1a1a;
+    text-align: center;
+    padding: 5px;
 }
 section {
     display: flex;
     flex-flow: wrap;
+}
+
+img {
+    display: block;
+}
+
+div {
+    padding: 1em;
+}
+
+li {
+    list-style-type: none;
+    padding: 5px;
 }
