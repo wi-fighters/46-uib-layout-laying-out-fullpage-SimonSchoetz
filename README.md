@@ -11,3 +11,5 @@
 * Use the color specifications found in the image below.
 ![reference-color](/images/reference-colors.png)
 
+---------
+In case you lose the link: https://github.com/wi-fighters/46-uib-layout-laying-out-fullpage-SimonSchoetz
