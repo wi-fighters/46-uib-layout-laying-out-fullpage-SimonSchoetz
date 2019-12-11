@@ -9,6 +9,7 @@ body {
 }
 main {
     background-color: #4b4b4b;
+    display: flex;
 }
 
 h1 {
@@ -19,10 +20,18 @@ nav {
     color: white;
     background-color: #4b4b4b;
 }
+nav ul {
+    display: flex;
+    justify-content: center;
+}
 aside {
     background-color: white;
 }
 p {
     color: white;
     background-color: #1a1a1a;
+}
+section {
+    display: flex;
+    flex-flow: wrap;
 }
